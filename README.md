@@ -2,14 +2,14 @@
 
 # 🔐 Password Generator
 
-### Create strong, random & secure passwords in one click.
+### Use Password Generator free on ToolAdda — quick, accurate, and browser-based.
 
 [![Visit Password Generator](https://img.shields.io/badge/Visit%20Password%20Generator-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tooladda.online/password-generator.html)
 [![ToolAdda Home](https://img.shields.io/badge/ToolAdda.online-8b5cf6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIi8+PC9zdmc+)](https://tooladda.online)
 [![Free & Open](https://img.shields.io/badge/100%25-Free-10b981?style=for-the-badge)](https://tooladda.online/password-generator.html)
 [![Category](https://img.shields.io/badge/Security-f59e0b?style=for-the-badge)](#)
 
-**Free password generator that creates cryptographically secure, random passwords with customizable length, symbols, numbers, and live strength analysis — 100% in your browser.**
+**Free password generator that creates strong, random, secure passwords in your browser. Works offline with customizable length, symbols, numbers, and no signup.**
 
 [🚀 **Open Password Generator Now →**](https://tooladda.online/password-generator.html)
 
@@ -30,12 +30,11 @@
 
 ## 🎯 Features
 
-- ✅ Cryptographically secure random passwords via Web Crypto API
-- ✅ Adjustable length up to 128 characters
-- ✅ Toggle uppercase, lowercase, numbers and symbols
-- ✅ Exclude similar and ambiguous characters
-- ✅ Live password strength and entropy meter
-- ✅ Works fully offline in your browser — nothing sent to any server
+- ✅ Free Password Generator — no signup required
+- ✅ Runs fast in your browser on desktop and mobile
+- ✅ Private by design — built for everyday use on ToolAdda
+- ✅ Part of ToolAdda's Security collection
+- ✅ Modern, clean interface with no clutter
 
 ---
 
@@ -66,30 +65,23 @@ https://tooladda.online/password-generator.html
 ## ❓ FAQ
 
 <details>
-<summary><strong>Is this password generator free?</strong></summary>
+<summary><strong>Is Password Generator free on ToolAdda?</strong></summary>
 
-Yes. ToolAdda's password generator is 100% free with no ads, no signup, and unlimited password generation.
-
-</details>
-
-<details>
-<summary><strong>Are my passwords stored or sent anywhere?</strong></summary>
-
-No. Every password is generated locally in your browser using the Web Crypto API. Nothing is uploaded, logged, or stored.
+Yes. Password Generator is 100% free to use on ToolAdda with no account required.
 
 </details>
 
 <details>
-<summary><strong>How long should a strong password be?</strong></summary>
+<summary><strong>Do I need to install anything?</strong></summary>
 
-Security experts recommend at least 14–16 characters. Use 16+ characters with mixed character types for important accounts.
+No. Open the tool in your browser and start using it instantly.
 
 </details>
 
 <details>
-<summary><strong>Does it work offline?</strong></summary>
+<summary><strong>Where is the live Password Generator?</strong></summary>
 
-Yes. Once the page loads, password generation works entirely offline in your browser.
+Visit tooladda.online — search for Password Generator or use the link in this repository README.
 
 </details>
 
@@ -106,6 +98,7 @@ Yes. Once the page loads, password generation works entirely offline in your bro
   <code>free password generator</code>&nbsp;
   <code>online password generator</code>&nbsp;
   <code>offline password generator</code>&nbsp;
+  <code>strong password maker</code>&nbsp;
 </p>
 
 ---
@@ -122,4 +115,4 @@ Made with ❤️ by [ToolAdda.online](https://tooladda.online) · [GitHub Organi
 
 </div>
 
-<!-- SEO: Password Generator, password generator, strong password generator, random password generator, secure password generator, free password generator, online password generator, offline password generator, tooladda, free online tool -->
+<!-- SEO: Password Generator, password generator, strong password generator, random password generator, secure password generator, free password generator, online password generator, offline password generator, strong password maker, tooladda, free online tool -->
