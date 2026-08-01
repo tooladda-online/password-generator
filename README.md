@@ -99,6 +99,13 @@ Visit tooladda.online — search for Password Generator or use the link in this 
   <code>online password generator</code>&nbsp;
   <code>offline password generator</code>&nbsp;
   <code>strong password maker</code>&nbsp;
+  <code>password generator online</code>&nbsp;
+  <code>password online</code>&nbsp;
+  <code>custom password generator</code>&nbsp;
+  <code>suggest password</code>&nbsp;
+  <code>safe passwords</code>&nbsp;
+  <code>password generator 12 characters</code>&nbsp;
+  <code>password generator 16 characters</code>&nbsp;
 </p>
 
 ---
@@ -115,4 +122,4 @@ Made with ❤️ by [ToolAdda.online](https://tooladda.online) · [GitHub Organi
 
 </div>
 
-<!-- SEO: Password Generator, password generator, strong password generator, random password generator, secure password generator, free password generator, online password generator, offline password generator, strong password maker, tooladda, free online tool -->
+<!-- SEO: Password Generator, password generator, strong password generator, random password generator, secure password generator, free password generator, online password generator, offline password generator, strong password maker, password generator online, password online, custom password generator, suggest password, safe passwords, password generator 12 characters, password generator 16 characters, tooladda, free online tool -->
