@@ -2,14 +2,14 @@
 
 # 🔐 Password Generator
 
-### Use Password Generator free on ToolAdda — quick, accurate, and browser-based.
+### Generate cryptographically secure passwords, passphrases, PINs, API keys, and Wi-Fi passwords with an unbiased random number generator, real zxcvbn-based strength scoring, and multi-scenario crack-time estimates — all processed privately on your device, nothing ever stored.
 
 [![Visit Password Generator](https://img.shields.io/badge/Visit%20Password%20Generator-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tooladda.online/password-generator.html)
 [![ToolAdda Home](https://img.shields.io/badge/ToolAdda.online-8b5cf6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIi8+PC9zdmc+)](https://tooladda.online)
 [![Free & Open](https://img.shields.io/badge/100%25-Free-10b981?style=for-the-badge)](https://tooladda.online/password-generator.html)
 [![Category](https://img.shields.io/badge/Security-f59e0b?style=for-the-badge)](#)
 
-**Free password generator that creates strong, random, secure passwords in your browser. Works offline with customizable length, symbols, numbers, and no signup.**
+**Generate cryptographically secure passwords, passphrases, PINs, API keys, and Wi-Fi passwords with real strength and crack-time analysis. Zero storage — free and private in your browser.**
 
 [🚀 **Open Password Generator Now →**](https://tooladda.online/password-generator.html)
 
@@ -95,17 +95,17 @@ Visit tooladda.online — search for Password Generator or use the link in this 
   <code>strong password generator</code>&nbsp;
   <code>random password generator</code>&nbsp;
   <code>secure password generator</code>&nbsp;
-  <code>free password generator</code>&nbsp;
+  <code>generate password</code>&nbsp;
   <code>online password generator</code>&nbsp;
-  <code>offline password generator</code>&nbsp;
-  <code>strong password maker</code>&nbsp;
-  <code>password generator online</code>&nbsp;
-  <code>password online</code>&nbsp;
-  <code>custom password generator</code>&nbsp;
-  <code>suggest password</code>&nbsp;
-  <code>safe passwords</code>&nbsp;
-  <code>password generator 12 characters</code>&nbsp;
-  <code>password generator 16 characters</code>&nbsp;
+  <code>password creator</code>&nbsp;
+  <code>generate strong password online</code>&nbsp;
+  <code>free password generator</code>&nbsp;
+  <code>random secure password</code>&nbsp;
+  <code>create complex password</code>&nbsp;
+  <code>passphrase generator</code>&nbsp;
+  <code>pin generator</code>&nbsp;
+  <code>api key generator</code>&nbsp;
+  <code>wifi password generator</code>&nbsp;
 </p>
 
 ---
@@ -122,4 +122,4 @@ Made with ❤️ by [ToolAdda.online](https://tooladda.online) · [GitHub Organi
 
 </div>
 
-<!-- SEO: Password Generator, password generator, strong password generator, random password generator, secure password generator, free password generator, online password generator, offline password generator, strong password maker, password generator online, password online, custom password generator, suggest password, safe passwords, password generator 12 characters, password generator 16 characters, tooladda, free online tool -->
+<!-- SEO: Password Generator, password generator, strong password generator, random password generator, secure password generator, generate password, online password generator, password creator, generate strong password online, free password generator, random secure password, create complex password, passphrase generator, pin generator, api key generator, wifi password generator, tooladda, free online tool -->
